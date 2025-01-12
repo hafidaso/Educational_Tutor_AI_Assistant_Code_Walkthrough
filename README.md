@@ -1,6 +1,6 @@
 # Educational Tutor AI Assistant
 
-An AI-powered educational assistant that helps learners improve skills like French, English, programming, or data analytics. The assistant includes features such as interactive quizzes, flashcards, real-time grammar correction, and project-based guidance in topics like Python, SQL, or Tableau.
+In this walkthrough, we'll go through the code to build an Educational Tutor AI Assistant using Google's Gemini language model. The assistant will include features like generating quizzes, creating flashcards, providing grammar corrections, and offering project guidance.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
